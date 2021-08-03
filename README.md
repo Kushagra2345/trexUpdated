@@ -1,1 +1,2 @@
-# trexUpdated
+# trex
+Infinite trex game
